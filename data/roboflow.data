@@ -1,0 +1,4 @@
+classes=20
+train= C:/Users/gymso/Desktop/V1(Solo)/YOLOv3/yolov3/train/images/train_images_roboflow.txt
+valid= C:/Users/gymso/Desktop/V1(Solo)/YOLOv3/yolov3/valid/images/valid_images_roboflow.txt
+names= C:/Users/gymso/Desktop/V1(Solo)/YOLOv3/yolov3/train/roboflow_data.names
